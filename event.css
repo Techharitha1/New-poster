@@ -9,7 +9,7 @@ html, body {
   min-height: 990px;
     box-shadow: outset 3px 5px 6px 4px red;
     margin: auto;
-    background-image: url("/party6.avif");
+    background-image: url("./party6.avif");
      
     background-repeat: no-repeat;
     background-position: center;
